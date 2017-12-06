@@ -1,5 +1,5 @@
 # AoC2017
-AdventOfCode - Fun coding puzzles 
+AdventOfCode - Fun coding puzzles. 
 The aim is to solve the puzzles - Not to write robust effecient and maintainable code
 
 See: http://adventofcode.com/
